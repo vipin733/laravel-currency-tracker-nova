@@ -7,7 +7,7 @@ A simple  Laravel Currency Tracker using Nova custome tools
 
 ### clone project 
 ```
-git clone laravel-currency-tracker-nova
+git clone https://github.com/vipin733/laravel-currency-tracker-nova.git
 ```
 ### install dependency 
 ```
